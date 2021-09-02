@@ -1,13 +1,4 @@
 <ul class="contact-list">
-  {% if site.email %}
-    <li>
-      <a href="mailto:{{ site.email }}">
-        <span class="icon icon--email">{% include icon-email.svg %}</span>
-        <span class="label">{{ site.data.theme.t.email | default: 'Email' }}</span>
-      </a>
-    </li>
-  {% endif %}
-
   {% if site.youtube_channel %}
     <li>{% include icon-youtube.html username=site.youtube_channel label='YouTube' %}</li>
   {% endif %}
@@ -18,6 +9,15 @@
 
   {% if site.twitter_username %}
     <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
+  {% endif %}
+
+  {% if site.email %}
+    <li>
+      <a href="mailto:{{ site.email }}">
+        <span class="icon icon--email">{% include icon-email.svg %}</span>
+        <span class="label">{{ site.data.theme.t.email | default: 'Email' }}</span>
+      </a>
+    </li>
   {% endif %}
 
   <!-- <li>
