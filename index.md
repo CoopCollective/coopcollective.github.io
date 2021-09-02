@@ -1,11 +1,11 @@
 ---
 layout: home
-paginate: true
+paginate: false
 alt_title: "Coop Collective"
 sub_title: "Your home for all Chicken Derby news"
 image: /assets/images/Coop_Collective_Hero.jpg
 introduction: |
-  Coop Collective is a group of individuals bringing you the very best in Chicken Derby News. Subscrine to updates on our youtube channel so you don't miss a thing!
+  Coop Collective is a group of individuals bringing you the very best in Chicken Derby News. Subscribe to updates on our youtube channel so you don't miss a thing!
 
   - Free Giveaways
   - Discord Discussion TLDR
