@@ -25,7 +25,7 @@ author:
   picture:
 twitter_username: "@cocktalkderby"
 github_username: "CoopCollective"
-logo: "/assets/images/Coop_Collective.png"
+logo: "/assets/images/Coop_Collective.jpg"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
