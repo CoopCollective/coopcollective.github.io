@@ -18,7 +18,7 @@ Off the very top Chicken Derby is a game build around NFT Chickens. An NFT, or n
 
 <!--more-->
 
-To play Chicken Derby you are going to need some Etherium (or ETH) and you will need it located on the Polygon network which will involve bridging your ETH from the Etherium network to Polygon. This comes with a fee called gas but the good news is that once you are on the Polygon network you are able to enjoy all the elements of Chicken Derby without those annoying gas fees. Check out our guide on how to bridge your ETH to polygon (https://www.youtube.com/watch?v=XnqzhvUuF2o). 
+To play Chicken Derby you are going to need some Etherium (or ETH) and you will need it located on the Polygon network which will involve bridging your ETH from the Etherium network to Polygon. This comes with a fee called gas but the good news is that once you are on the Polygon network you are able to enjoy all the elements of Chicken Derby without those annoying gas fees. Check out our [guide](https://www.youtube.com/watch?v=XnqzhvUuF2o) on how to bridge your ETH to polygon. 
 
 Right now, the only way to add a chicken to your coop is to buy them on Open Sea as all of the drops for the 33,333 spicy chickens have been completed. Buying and selling chickens on Open Sea also uses ETH on the Polygon network but you may need a tiny bit of MATIC in your wallet to get going. You can visit a faucet (matic.supply) to get enough of it for free to cover the fees so no need to stress about spending more money on gas.
 
@@ -26,7 +26,7 @@ Right now, the only way to add a chicken to your coop is to buy them on Open Sea
 
 The reality is that for a silly looking game Chicken Derby is going to be very complex and there is a lot to learn if you want to get the most out of your birds both on the race track and in the breeding barn.  
 
-With heritages, talents, perfections, and dozens of different cosmetics there are nearly endless combinations of different birds that you could own. It is worth spending time reading over every detail of the Chicken Derby tutorial available on the developers website (https://bitlovin.gitbook.io/chicken-derby-tutorial/). We still do not know what will make a chicken good or bad so reading the guide and determining what your own priorities will be is important before jumping in to the market for the first time.
+With heritages, talents, perfections, and dozens of different cosmetics there are nearly endless combinations of different birds that you could own. It is worth spending time reading over every detail of the Chicken Derby tutorial available on the developers [website](https://bitlovin.gitbook.io/chicken-derby-tutorial/). We still do not know what will make a chicken good or bad so reading the guide and determining what your own priorities will be is important before jumping in to the market for the first time.
 
 Each bird will have its own unique combination of elements that you can see as well as some unseen factors that will only be discovered through racing. You may know the perfection and talent of a bird when you buy it but what you won’t know is their consistency, distance preference, or terrain preference. That information will only come from racing your chicken and tracking the data.
 
