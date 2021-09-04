@@ -1,13 +1,11 @@
 ---
-title: "About"
+title: "About Coop Collective"
 layout: about
 ---
 
-# About Coop Collective
-
 Coop Collective is a group of like minded chicken farmers who got together to start the Cock Talk podcast and saw the chance to create something even bigger than that. We want to be a source for knowledge and insight for the Chicken Derby community but also a fun place to share your love of digital chickens. When your friends and family get sick of hearing you talk about digital chickens you can always find some chicken chat here.
 
-The Coop Collective was born out of the minds of four of us but is very much a community intended to help all of its members be successful in Chicken Derby and have a fun time doing it. Through the Cock Talk Podcast, this website, a discord group, and any future ventures it is our aim to pool together knowledge and resources so that together we can all achieve more. 
+The Coop Collective was born out of the minds of four of us but is very much a community intended to help all of its members be successful in Chicken Derby and have a fun time doing it. Through the Cock Talk Podcast, this website, a discord group, and any future ventures it is our aim to pool together knowledge and resources so that together we can all achieve more.
 
 ## Blake - Wattle Wattle Racing Team
 
@@ -17,11 +15,9 @@ Blake is from Oklahoma and is a die hard Sooners and Thunder fan. He is a father
 
 The resident Canadian in the group Dave is a soccer lover who dreams of seeing Canada play at a World Cup when he is not doing his day job working in marketing. With a degree in English and History Dave has a passion for communication and a habit of churning out high word count articles. Dave really just wants to make hanging out online a full-time job and leads the written content side of the Coop Collective. Relatively new to the NFT space Dave comes from the sports card world which led to his first NFT being SoRare. His approach to NFTs is the more utility the better so racing chickens is right up his alley.
 
-
 ## Josh - Grateful Coops
 
 Josh is a product of South Dakota, has lived many places, but currently calls Omaha, Nebraska home. He absolutely loves live music, sports and gaming in general. Josh is a Broadcast Engineer for 5 of the top radio stations in the Omaha area. When he’s not fixing transmitters and keeping radio stations on the air, he enjoys producing and getting creative with projects. Josh produced a fantasy football podcast for three years before the show took a hiatus. During that hiatus, he stumbled on the world of NFT’s. Cutting his teeth and emotions with NBA TopShot, just missing the boat with Zed, he found Chicken Derby and the chicken coop discord and fell in love. One thing lead to another and here they are, Cock Talk was born and thus making the first Chicken Derby Content and delivering the latest and best info to the masses!
-
 
 ## Tyler - MBF Express
 
