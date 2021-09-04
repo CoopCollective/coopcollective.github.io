@@ -2,9 +2,9 @@
 title: "Breeding Introduction"
 date: 2021-09-04
 image: 
-  path: /assets/images/2021-09-04-blog3-breeding-intro.jpg
+  path: /assets/images/blog/breeding-introduction.jpg
 categories:
-  - Media
+  - Blog
 tags:
   - intro
   - youtube

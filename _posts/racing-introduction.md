@@ -2,9 +2,9 @@
 title: "Racing Introduction"
 date: 2021-09-03
 image: 
-  path: /assets/images/2021-09-03-blog2-racing-intro.jpg
+  path: /assets/images/blog/racing-introduction.jpg
 categories:
-  - Media
+  - Blog
 tags:
   - intro
   - youtube
