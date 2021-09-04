@@ -1,5 +1,5 @@
 ---
-title: "Chicken Derby - Racing Intro"
+title: "Racing Introduction"
 date: 2021-09-03
 image: 
   path: /assets/images/2021-09-03-blog2-racing-intro.jpg

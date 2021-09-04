@@ -1,5 +1,5 @@
 ---
-title: "Chicken Derby - Racing Intro"
+title: "Breeding Introduction"
 date: 2021-09-04
 image: 
   path: /assets/images/2021-09-04-blog3-breeding-intro.jpg
