@@ -19,7 +19,7 @@ The core element of Chicken Derby is racing so let’s spend some time digging i
 # Intro to Racing
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://youtu.be/Mqs-odCLPnM" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Mqs-odCLPnM?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Races will consist of 8 chickens (note in some video promos there have been 12 racers) who are all competing to take home the win. You will be able to enter your chicken in to a race either for free or by paying an entry fee. The price of entry will determine the size of the prize pool available should your bird finish in the top 3.
@@ -31,7 +31,7 @@ When you place top 3 in a race you will receive a share of the prize pool. 1st p
 ## So how do you know if you have a winning chicken?
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://youtu.be/neo8FAyPfnA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/neo8FAyPfnA?controls=0&amp;" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Well, the simple answer is that you have to race them. And probably race them more than a few times to really know what they are capable of on the race track.
