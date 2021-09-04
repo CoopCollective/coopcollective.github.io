@@ -1,15 +1,15 @@
 ---
 title: "Chicken Derby - Racing Intro"
-date: 2021-09-04
+date: 2021-09-03
 image: 
-  path: /assets/images/blog2-Racing_Intro.jpg
+  path: /assets/images/2021-09-03-blog2-racing-intro.jpg
 categories:
   - Media
 tags:
   - intro
   - youtube
   - twitter
-last_modified_at: 2021-09-04
+last_modified_at: 2021-09-03
 ---
 
 The core element of Chicken Derby is racing so let’s spend some time digging in to what we know about racing and touching on some of the unknown elements that will be at play.
