@@ -2,7 +2,7 @@
 title: "Chicken Derby - Intro"
 date: 2021-09-02
 image: 
-  path: /assets/images/blog/chicken-derby-intro.jpg
+  path: /assets/images/blog/2021-09-02-chicken-derby-intro.jpg
 categories:
   - Blog
 tags:
