@@ -22,11 +22,12 @@ One of the key ways to make Chicken Derby profitable will be breeding. It is als
 
 Breeding will require a hen and a rooster but if you do not have both in your coop do not fear as there will be some way to allow owners to breed with birds from other coops.
 
-We know that when breeding takes place the hen will be the one to keep the egg.  What the rooster gets in the deal is currently not clear but it could be an ETH payment from the owner of the hen that they were bred with.
+We know that when breeding takes place one owner will be paying the ETH fee and that owner will receive the egg. So in a scenario where you have a rooster that you want to breed you can either pay a fee to breed with someone else’s hen and receive an egg or you can set him to allow others to breed with your rooster in which case you would receive part of the breeding fee. If you decide to just stay in your own coop and breed your rooster with your own hen then the fee that you pay would go to the game rather than paying yourself for breeding. 
 
 It will not be possible to breed as often as you can afford and instead each bird will have a cool down period between breedings. The Developers have confirmed that they intend for that cool down to get longer after each time you breed a chicken. But before you worry that your chicken will go down in value each time you breed them the intention is to make it so that birds who have been bred more are producing better offspring. If this is executed properly the increased value of the chicks should offset any value that was lost by having a longer cool-down. It is also worth noting that the breeding cool-down will have nothing to do with a chicken being able to race.
 
 The other piece we know is that the stock of a bird will decline as they get further removed from the original spicy generation. There are six different stocks: spicy, robust, fresh, crisp, tender, and bland with each stock generally getting weaker than the previous one. With smart breeding though it will be possible to create winners in those lower stocks so even if you do not own a spicy chicken it does not mean it is game over for you.
+
 
 ## The list of what we do not currently know about breeding is much longer than what we do know.
 
@@ -38,6 +39,6 @@ The same guess work would be true of talents. We do not know if breeding two bir
 
 Just to make it even more tinfoil hat friendly we have even had a teaser from the developers that they would like to see new things like talents and traits introduced through breeding. 
 
-Another big piece of the breeding puzzle that remains unknown is the costs that will be associated. It will be important for there to be some cost since that helps to set the floor price for offspring and helps to control the supply as people are less likely to breed bad birds if they know the offspring won’t be worth more than the cost of breeding.
+Another big piece of the breeding puzzle that remains unknown is the costs that will be associated. It will be important for there to be some cost since that helps to set the floor price for offspring and helps to control the supply as people are less likely to breed bad birds if they know the offspring won’t be worth more than the cost of breeding. Until we know what in-coop breeding out out-of-coop breeding will cost it will be tough to make a plan on what is the best breeding plan for your coop.
 
 As you can see there are more questions about breeding than there are answers at this point in time. It leaves a lot of room open for some fun speculation and it also leaves room for making suggestions to the Developers since we have seen they are clearly listening to the player base and considering suggestions. Based on the roadmap for the game we likely will not see breeding until 2022 so we have lots more time to talk about this.
