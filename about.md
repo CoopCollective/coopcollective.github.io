@@ -1,5 +1,5 @@
 ---
-title: "About Coop Collective"
+title: "About Us"
 layout: about
 ---
 
