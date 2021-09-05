@@ -1,5 +1,5 @@
 ---
-title: "Market Update"
+title: "Market"
 layout: market
 ---
 
