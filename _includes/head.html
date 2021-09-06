@@ -14,13 +14,6 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
   {% endif %}
 
-  <script>
-    /* Cut the mustard */
-    if ( 'querySelector' in document && 'addEventListener' in window ) {
-      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
-    }
-  </script>
-
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PE9Y9857PC"></script>
   <script>
@@ -29,6 +22,13 @@
     gtag('js', new Date());
 
     gtag('config', 'G-PE9Y9857PC');
+  </script>
+
+  <script>
+    /* Cut the mustard */
+    if ( 'querySelector' in document && 'addEventListener' in window ) {
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
+    }
   </script>
 
   <link rel="stylesheet" href="{{ '/assets/stylesheets/main.css' | relative_url }}">
