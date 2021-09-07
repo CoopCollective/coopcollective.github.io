@@ -2,7 +2,7 @@
 title: "Hi, I'm Elven Alliance"
 date: 2021-09-07
 image:   
-  path: /assets/images/blog/elvens_serama.jpg
+  path: assets/images/blog/2021-09-07-elven-alliance-introduction.jpg
 categories:
   - Blog
 tags:
