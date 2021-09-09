@@ -2,7 +2,7 @@
 title: "Understanding Your Chicken"
 date: 2021-09-09
 image:   
-  path: assets/images/blog/2021-09-09-understanding-your-chicken.jpg
+  path: aassets/images/blog/2021-09-09-understanding_your_chicken.jpg
 categories:
   - Blog
 tags:
