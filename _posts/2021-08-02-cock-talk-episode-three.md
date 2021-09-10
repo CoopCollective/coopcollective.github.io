@@ -1,8 +1,6 @@
 ---
 title: "Cock Talk Episode Three"
 date: 2021-08-02
-image: 
-  path: assets/images/Cock_Talk_Upright.jpg
 categories:
   - Blog
 tags:
