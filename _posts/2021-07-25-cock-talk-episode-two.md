@@ -1,8 +1,6 @@
 ---
 title: "Cock Talk Episode Two"
 date: 2021-07-25
-image: 
-  path: assets/images/Cock_Talk_Upright.jpg
 categories:
   - Blog
 tags:
