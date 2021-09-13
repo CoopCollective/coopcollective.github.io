@@ -28,6 +28,7 @@ youtube_channel: "UC3YfNW0BMe-qaavWOj-Kp8Q"
 twitter_username: "@cocktalkderby"
 github_username: "CoopCollective"
 logo: "/assets/images/Coop_Collective.jpg"
+future: false
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
