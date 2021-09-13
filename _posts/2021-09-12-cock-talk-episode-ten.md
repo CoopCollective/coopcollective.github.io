@@ -10,8 +10,12 @@ tags:
 last_modified_at: 2021-09-12
 ---
 
+<div class="videoWrapper">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mohCKLu2om4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</div>  
+  
 # Episode Summary
 
 What's up! Welcome to the Cock Talk Podcast WE LAUNCHED A WEBSITE!  Check out the link below!
