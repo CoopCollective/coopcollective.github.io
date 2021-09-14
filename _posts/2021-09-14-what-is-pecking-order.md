@@ -43,3 +43,4 @@ The biggest question mark that I see with Pecking Order is how quickly it will m
 The Pecking Order seems to be one area that the game will need to fine tune during the upcoming closed beta. If POP is going up and down too quickly it might not achieve the desired results and need some adjusting. 
 
 For those taking part in beta racing we do know that POP will be live so birds can move up and down in PO but it will be reset at the end of the closed beta. That means that once the open beta begins all birds will once again be in PO B.
+
