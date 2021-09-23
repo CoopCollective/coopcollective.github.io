@@ -18,7 +18,7 @@ Naming is on the horizon for Chicken Derby and it is going to be one of the firs
 
 <!--more-->
 
-The one piece of good news for those dreading having to name far too many birds is that according to the Developers naming is not going to be forced. In fact, you will be able to race and breed a bird without giving it a name. It initially seemed like naming would only be optional for beta racing but according to comments from Apex “naming will not be forced” even beyond that. So fear not if you have too many birds to name.
+The one piece of good news for those dreading having to name far too many birds is that according to the Developers naming is not going to be forced. In fact, you will be able to race and breed a bird without giving it a name. It initially seemed like naming would only be optional for beta racing but according to comments from Apex “naming will not be forced” even beyond that.  Its not 100% clear yet if that means you can race and breed a bird without a name but my reading of the comments was that you will be able to. So fear not if you have too many birds to name.
 
 (Personal aside: I am not actually a fan of this. I think being able to race of breed a bird should require naming but you should also be able to leave a bird unraced/unbred/unnamed in case your plan is to sell it down the road)
 
