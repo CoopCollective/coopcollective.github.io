@@ -3,6 +3,7 @@ title: "What is Pecking Order"
 date: 2021-09-14
 image:   
   path: assets/images/blog/2021-09-14-what-is-pecking-order.jpg
+comments: true
 categories:
   - Blog
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Nine"
 date: 2021-09-05
+comments: true
 categories:
   - Blog
 tags:

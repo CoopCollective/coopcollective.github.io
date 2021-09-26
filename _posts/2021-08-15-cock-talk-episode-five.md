@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Five"
 date: 2021-08-15
+comments: true
 categories:
   - Blog
 tags:

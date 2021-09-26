@@ -19,7 +19,9 @@ email: CoopCollectivederby@gmail.com
 description: Home of the Cock Talk podcast and the Coop Collective team.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 google_analytics: G-PE9Y9857PC
-url: "https://coopcollective.github.io"
+disqus:
+  shortname: coopcollective-io
+url: "https://coopcollective.io"
 author:
   name: Coop Collective
   twitter: "@cocktalkderby"

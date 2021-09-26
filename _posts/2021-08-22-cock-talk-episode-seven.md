@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Seven"
 date: 2021-08-22
+comments: true
 categories:
   - Blog
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Eight"
 date: 2021-08-29
+comments: true
 categories:
   - Blog
 tags:

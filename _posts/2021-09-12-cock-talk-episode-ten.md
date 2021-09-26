@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Ten"
 date: 2021-09-12
+comments: true
 categories:
   - Blog
 tags:

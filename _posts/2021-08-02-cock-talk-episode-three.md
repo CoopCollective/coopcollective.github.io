@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Three"
 date: 2021-08-02
+comments: true
 categories:
   - Blog
 tags:

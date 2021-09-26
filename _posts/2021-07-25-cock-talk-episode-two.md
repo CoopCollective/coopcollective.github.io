@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Two"
 date: 2021-07-25
+comments: true
 categories:
   - Blog
 tags:

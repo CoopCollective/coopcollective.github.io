@@ -3,6 +3,7 @@ title: "Should You Name Your Chicken?"
 date: 2021-09-23
 image:   
   path: assets/images/blog/2021-09-23-should-you-name-your-chicken.jpg
+comments: true
 categories:
   - Blog
 tags:

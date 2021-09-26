@@ -3,6 +3,7 @@ title: "Quality vs. Quantity"
 date: 2021-09-16
 image:   
   path: assets/images/blog/2021-09-16-quantity-vs-quality.jpg
+comments: true
 categories:
   - Blog
 tags:

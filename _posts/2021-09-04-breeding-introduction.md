@@ -3,6 +3,7 @@ title: "Breeding Introduction"
 date: 2021-09-04
 image: 
   path: /assets/images/blog/2021-09-04-breeding-introduction.jpg
+comments: true
 categories:
   - Blog
 tags:

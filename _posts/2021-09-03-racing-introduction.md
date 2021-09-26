@@ -3,6 +3,7 @@ title: "Racing Introduction"
 date: 2021-09-03
 image: 
   path: /assets/images/blog/2021-09-03-racing-introduction.jpg
+comments: true
 categories:
   - Blog
 tags:

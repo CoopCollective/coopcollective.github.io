@@ -1,6 +1,7 @@
 ---
 title: "Cock Talk Episode Four"
 date: 2021-08-08
+comments: true
 categories:
   - Blog
 tags:
